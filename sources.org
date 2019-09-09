@@ -2,3 +2,6 @@ https://commons.wikimedia.org/wiki/File:License_icon-bsd-88x31.svg
 https://upload.wikimedia.org/wikipedia/commons/3/33/License_icon-gpl-88x31.svg
 https://creativecommons.org/about/downloads/
 https://upload.wikimedia.org/wikipedia/commons/f/f8/License_icon-mit-88x31-2.svg
+https://en.wikipedia.org/wiki/Mozilla_Public_License#/media/File:Mozilla_logo.svg
+https://es.wikipedia.org/wiki/GNU_Affero_General_Public_License#/media/Archivo:AGPLv3_Logo.svg
+https://en.wikipedia.org/wiki/Apache_License#/media/File:Apache_Software_Foundation_Logo_(2016).svg
